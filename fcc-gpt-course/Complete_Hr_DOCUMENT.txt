@@ -1,0 +1,1377 @@
+CLIENT SETUP INSTRUCTIONS MAC OS
+
+You can configure SSL VPN for Mac OS X using Tunnelblick VPN client by following the steps below.
+Download and install Tunnelblick Client
+
+1. Download the latest version Tunnelblick for MAC from
+https://tunnelblick.net/downloads.html.
+2. Put the file in the Applications folder and Install the file Tunnelblick.*.*.dmg file.
+Download and connect with the OVPN file
+
+Step1. Open IE or any browser and enter this URL https://111.93.186.182
+Step2. Click on ..... I Understand the risks
+Step3. Click on Add Exception.Step4. Click on Confirm Security Exception.
+Step5. Now enter the internet portal user name and Password.
+On successful logined, the SSL VPN User Portal screen will display.Step6. Click ON VPN TAB
+Download the VPN Configuration files.
+Step7. Double Click on the configuration file it will open in Tunnelblick.Step8. Click on Connect.
+Step9. You will see Connected at the top of the screen.
+How to access Microsoft Remote Desktop on your Mac?
+In order to get started with Microsoft Remote Desktop, you must begin by downloading it from the
+Mac App Store. Click the blue "App Store" icon in your dock.
+Once you've accessed the Mac App Store, use the search bar at the top right of the screen to search
+for "Microsoft Remote Desktop." The first search result should be what you're looking for. To begin
+the download, click the blue "Get" button. This app is free, so no price will be listed.Next, open the application by clicking through the grey "Launchpad" icon and clicking on the Remote
+Desktop app icon. Or, you can use the searchlight feature by clicking the looking glass at the top right
+of your home screen, or by using the shortcut Command + Space Bar, and searching for "Microsoft
+Remote Desktop." Opening the app should look like this:
+Head back to your Mac and click the "New" button at the top left of the Microsoft Remote Desktop
+screen. You'll be prompted to fill in quite a few fields.
+Connection Name: Netsmartz Office PC
+PC : <IP Address Netsmartz Office Machine>
+User Name: netsmartz\<Firstname>.<lastname>
+Pass: <Netsmartz Windows Login Password>
+For Further Help Use the below mentioned link.
+https://www.youtube.com/watch?v=x7TCvLuWlF0
+Country details provisioned to dial outgoing from Netsmartz IP, Phone Line 2.
+Singapore
+Japan
+Honk Kong
+Indonesia
+UK
+USA
+Canada
+Russia
+Australia
+Norway
+Finland
+Sweden
+Nigeria
+Ukraine
+Malaysia
+Dubai
+Saudi
+Bahrain
+UAE
+France
+Kuwait
+Oman
+
+FAQ’s related to CTC – Cost to the company
+
+1. What is the difference between Gross Salary and CTC?
+Answer : Gross Salary is sum total of Basic pay, HRA and Allowance/perquisites
+which is shown under your pay slips.
+CTC means: Cost to the company which is sum total of Gross Salary (as mentioned
+above), Employer part of EPF, ESI, NPS, GMI and Gratuity.
+
+2. Why CTC is not shown under the pay slips?
+Answer : Pay slips is a document which shows your net payment credited in your bank
+account and doesn’t includes the Employer part of EPF, NPS,ESI, GMI and Gratuity.
+
+3. How can I view my CTC breakup in Darwin box ?
+Answer: CTC information is available under Compensation tab named as CTC
+proration.
+
+4. Why Employee EPF and Employee ESI is not shown under CTC while its gets
+deducted from gross salary ?
+Answer : As employee EPF and employee ESI is contribution needs to be deposited
+from employee side, so it can’t be part of the CTC.
+
+5. How my Basic salary is determined in the offered CTC?
+Answer : Currently, we have different CTC slabs ranges and basic salary is determined
+according to the CTC range your offer is coming.
+
+6. What is tax-free reimbursement benefits?
+Answer : Tax-free reimbursement benefits are certain tax free components which are
+incorporated in CTC above 12LPA. Currently there are 3 CTC ranges for benefits:
+1. 12LPA-20LPA
+2. 20LPA-30LPA
+3. 30LPA and above
+Such benefits, will be automatically added in your CTC according to above ranges.
+7. How LTC ( Leave Travel concession) amount is calculated under tax-free
+reimbursement benefits?
+Answer : LTC can be maximum to 10% of your Annual Basic. So if your Annual Basic
+is Rs 6,00,000/- the maximum LTA amount will be Rs 60000/- Annually.
+LTC can only be availed twice in a block of four calendar years. The current block of
+years is from 2022 to 2025.
+LTC benefit is only available on travelling tickets in INDIA only. No food and hotel
+stay is allowed under LTC benefit.
+
+8. What is GMI and why it is added in our CTC?
+Answer : GMI is a Group medical Insurance facility provided to employees of
+Netsmartz Group . It is in addition to gross salary of the employee.
+
+9.What is Sodexo card facility?
+Answer : For tax saving, you can avail the Sodexo card facility, an Sodexo card is
+issued to an employee loaded with amount of Rs 2750 which is tax-free. So, if an
+employee wants to opt meal card, kindly drop email at team.payroll@netsmartz.com
+along with their personal email id and contact details for registration under Sodexo.
+
+Do and Don’t to Make Netsmartz SSL Connectivity
+
+Check the placement of the Internet Dongle or broadband and your system
+distance against the Internet dongle or the broadband.
+Connect your Home System with the Internet.
+Check the Internet Speed (Slow Internet connection will lead to problem in
+RDP (Remote Desktop Protocol) session over the SSL).
+https://www.speedtest.net/
+
+Download the Netsmartz SSL APP on your personal or official desktop or
+Laptop using your SSL credentials. (Procedure document already shared with
+each individual)
+Once connected with the SSL take Remote desktop of your Netsmartz System
+using the office system credentials.
+ Note: before making the connection with the Netsmartz SSL
+insure for not to connected with any other VPN from your home
+system
+o Enter System IP Address
+o Office System User ID: Netsmartz\firstname.lastname
+o Office System Password:
+Note that you cannot take skype Audio call over the Remote session of your
+office desktop.
+
+
+Netsmartz CHD SVN Server Access over the SSL Connection.
+
+Ensure you are on reliable internet, preferably on Broadband and not
+on the mobile HOTSPOT.
+Connect to the Netsmartz SSL Connection using your SSL credentials.
+By connected with Netsmartz SSL using the company Laptop perform
+the SVN code check-in or Check out Tasks.
+By connecting with the Netsmartz SSL using personal Desktop or
+laptop you need to take RDP of your Company system and then
+perform SVN code check in-check out tasks.
+
+For Service assistance kindly submit service request at
+https://netsmartz.darwinbox.in/user/login
+
+Office system IP Address:
+
+Problem Description
+
+error snapshot:
+Zimbra Email Login Portal
+1. Please login on the web browser with the mentioned URL.
+https://mailzimb.netsmartz.net/
+2. Use your email credentials to login on the mail server.
+FAQ’s on Employee ESI
+
+1. What is the eligibility criteria of ESI deduction?
+
+Answer : ESI deduction is mandatory for employees whose gross salary is less than Rs
+21k per month.
+
+2. After appraisal my gross salary increases by Rs 21000 per month, then why ESI
+is getting deducted from my salary?
+
+Answer : As per ESI rules, the deduction needs to be continued for between the period of
+April to September and October-March.
+For example : Your appraisal gets done in June payroll and your Gross salary increased to
+Rs 21000 per month however as per ESI rules your ESI deduction needs to be continued
+till your Sept payroll as it falls in the period of April to September.
+
+3. What will happen when I get out of ESI coverage?
+
+Answer : Once you fall out of ESI coverage, in the next month you will be added in GMI
+policy of the company. For which HR will share the information with Payroll Team to add
+the employee under GMI policy.
+
+Frequently Asked Questions – Human Resources
+
+1. How to apply for leave on Darwinbox?
+
+Ans. Please follow the below steps:
+a) Login to your Darwinbox account, using your login credentials (shared with you at the time of your
+joining on your official email)
+b) Click on leave (as per screenshot below)
+c) Click on the apply tab (as per below screenshot)
+d) Fill out the below details:
+i. Select the leave type
+ii. Select the “from” and “to” date
+iii.Mention the reason and apply
+Once you submit, your request will go to your manager for approval.
+Please Note: It is a good practice to speak to your manager before applying for leave so that the manager has
+the context.
+
+2. How to apply for short leave?
+
+Ans. Login to your Darwinbox account, using your login credentials (shared with you at the time of your joining
+on your official email)
+a) Go to the attendance tab on Dashboardb) Click on apply
+c) Fill out the details mentioned below:
+i. Select the short leave type
+ii. Select the date
+iii. Choose the time slot for short leave. (Short leave can’t exceed 120 minutes)
+iv. Mention the reason and apply
+
+3. How to apply attendance request?
+
+Ans. Login to your Darwinbox account, using your login credentials (shared with you at the time of your joining
+on your official email)
+a) Go to the attendance tab on Dashboard
+b) Click on apply
+c) Fill out the details
+d) Select the attendance request
+e) Select the reason. (WFO/WFH)
+f) Select the date and choose the location
+g) Choose the shift timing
+h) Mention the reason and apply
+
+4. How to apply backdated leaves?
+
+Ans. Login to your Darwinbox account, using your login credentials (shared with you at the time of your joining
+on your official email)
+a) Go to attendance
+b) Click on List view ( 3 tilt icons next to apply)
+c) Click on the absent for which you want to apply leaved) Click on replace leave and select the leave type
+e) Mention the reason and click on leave replacement
+
+5. How to raise a ticket on Darwinbox?
+
+Ans. Login to your Darwinbox account, using your login credentials (shared with you at the time of your joining
+on your official email)
+a) Click on the helpdesk tab.b) Click on create issue
+c) Mention the title/subject
+d) Add description
+e) Select category and subcategory
+f) In case of any attachment, upload the attachment
+g) If you have a link to add for more details, please add link
+h) Click on the create issue – top right side
+
+6. Where to check the HR policy documents?
+
+Ans. Login to your Darwinbox account, using your login credentials (shared with you at the time of your joining
+on your official email) and click on the HR documents Tab. You will be able to find required policy there
+7. What is the GMI Policy Number to be used for enrolling in GMI app?
+
+Ans - Policy Number – 421120020223700000100000
+
+8. How to get the GMI card?
+
+Ans. Download the Livmobile app.
+a) Enter your contact number for the login.
+b) Enter the OTP received on the registered mobile number.
+c) Click on add existing policy.d) Select health …. Choose the corporate and fill out the required details.e) Once you submit, you will get your details and e-card.
+f) In case of more details/ query, please connect with Manish Gupta - 8657528961
+manish.gupta2@libertyinsurance.in
+
+9. Why I can’t see my biometric sync on Darwinbox?
+
+Ans. The attendance sync up time between biometric and DB is 24-48 hours. In case the sync doesn’t happen
+post 24-48 hours as well, then you might raise Helpdesk ticket to HR
+
+10. Whom to contact for Jira related queries?
+
+Ans. Please drop an email on- pmo@netsmartz.com
+
+11. Where to share the employee reference for hiring?
+
+Ans. Please drop an email on- referral@netsmartz.net.
+
+12. How to mark attendance, if you are working in Hybrid mode (Hybrid – 4days from office 1day from home
+or 4 hours from office and 4 hours from home)?
+
+Ans. In both the scenarios you need to apply the attendance request on Darwinbox. Please refer to how to raise
+attendance request for details.
+
+13. Whom to contact for queries related to PBB/Bonus/ ESIC/EPF/Form 16/ tax.?
+
+Ans. Please raise the ticket on Darwinbox and select the category Finance. Please refer to Finance FAQs before
+raising the ticket.
+
+14. Whom to contact for Car Parking, Office infra, Tea/ Coffee, Chairs, Desks related concerns?
+
+Ans. Please raise the ticket on Darwinbox and select the category Facilities.
+
+15. Whom to contact if your weekend shows absent while it was your weekly off?
+
+Ans. Employee is expected to check attendance on weekly basis and please raise a ticket on Darwinbox and
+select the category HR in case weekend is showing absent.
+
+
+FAQ’s for Resigned/Reliving
+
+1.I am on Resignation so for how many months my salary will be on hold and how it
+will be paid?
+Answer: As per current policy the salary is put on hold of the resignation month and rest
+month salaries is paid according to normal pay cycle.
+
+2. Post employee’s relieving, within how many days Full and Final amount is credited
+in account?
+Answer: Your full and Final amount will be credited within 30 days of your last working
+day.
+
+3. When is the Gratuity and Leave Encashment amount paid post relieving?
+Answer: Gratuity and Leave encashment amount is paid along with full & final payment
+within 30 days of your last working day.
+
+4.How the Gratuity amount is calculated?
+Answer: The Gratuity amount is calculated with formula:
+Last drawn basic salary*No of years of service*15/26
+If in a year the service was more than 6 months the benefit will be given for full year.
+Example if an employee serves service for 5 year 7 months he will get Gratuity for 6 years.
+
+5.How the final TDS will be deducted from my full and final amount?
+Answer: TDS calculation is done on the basis of employee total taxable income and
+investment proofs submitted. The investment proofs needs to be submitted in Darwin box
+asking the Payroll team to open the window for proofs submission ticket needs to be raised
+at Darwin helpdesk. This task needs to be completed before end of your last working day.
+
+6.How I will get my form 16 after reliving?
+Answer: Form 16 is generated by end of June in next financial year, kindly drop mail at
+team.payroll@netsmartz.com from your personal email id mentioning your name and
+PAN number, the same will be shared in June 2024 digitally signed via email.
+
+7.When does PF account exit date gets updated under EPF portal?
+Answer: PF exit date is updated after release of full and final amount, in case it’s not
+updated kindly drop email at team.payroll@netsmartz.com
+
+8.I need form 16 of last two/three/four/five years?
+Answer: Every year form 16 is sent to employee and it’s their responsibility to keep this
+in their records. Payroll Team will be able to provide Form 16 of latest financial year only.
+
+9.I need my pay slips from the date of joining?
+Answer: Pay slips are available under Darwin box w.e.f April 2022, before that pay slips
+was available in old software HONOHR for which communication was already circulated
+to employees to download the pay slips in HONO.
+
+FAQ’s for Income tax declaration and Tax saving proofs
+
+1. Where I have to fill the Income tax declaration?
+Answer : To fill the income tax declaration, kindly go DB login go to compensation tab and
+Income tax declaration.
+
+2. What is the deadline for filling Investment declaration form in Darwin Box portal?
+Answer: Investment declaration is opened by end of every month for which company-wide
+email is sent, informing about open and close time-frame of window.
+Employees joining post the month of May in a calendar year are required to submit their
+previous employer declaration under the same tab .
+Previous employer declaration is helpful for the accurate calculation of tax for a full year
+otherwise it may impact the tax liability of an employee while filling their income tax return.
+
+3. Where to check that my Income tax declaration is updated or not?
+Answer : After submitting your income tax declaration data will get updated in your tax sheet
+available under compensation tab ---- Tax Sheet.
+
+4. How can I check my per month tax deductions?
+Answer: Your can check your per month tax deduction from your tax sheet and it will keep
+on updating depending upon appraisals, bonuses and any updation done by you in declaration.
+
+5. Where should I invest to save tax?
+Answer: Investments under different options for saving tax are every employee’s personal
+choice; we cannot seek a direct assistance in this. However under GPW Initiative HR team is
+organizing sessions for financial planning, you can attend the same and plan accordingly. For
+better understanding you can contact financial expertise like CA’s, Investment Managers.
+
+6. What are the options available under tax benefits as per Income tax act?
+Answer: The options available under 80C are LIC, Mutual Funds, Tax saver FDR, EPF,
+Sukhyana Samridhi etc maximum to Rs 1.50 lakh, the other options are under 80D- Health
+Insurance, National Pension Scheme, 80E-Education loan.
+7. When we have to submit the proofs for Tax saving documents?
+Answer: The Tax Saving documents are required to be submitted between period of Jan
+to Feb 2024, company-wide email will be sent in this regard.
+
+8. Why Income tax return is filed and how it is filed ?
+Answer: Filling of Income tax return is personal choice of every individual so we cannot
+provide assistance in this. For better understanding you can contact financial expertise like
+CA’s, Investment Managers.
+
+CLIENT SETUP INSTRUCTIONS MAC OS
+
+You can configure SSL VPN for Mac OS X using Tunnelblick VPN client by
+following the steps below.
+Download and install Tunnelblick Client
+1. Download the latest version Tunnelblick for MAC from
+https://tunnelblick.net/downloads.html.
+2. Put the file in the Applications folder and Install the file
+Tunnelblick.*.*.dmg file.
+Download and connect with the OVPN file
+Step1. Open IE or any browser and enter this URL
+https://netggnfw.netsmartz.net:10443
+Step2. Click on ..... I Understand the risks
+Step3. Click on Add Exception.Step4. Click on Confirm Security Exception.
+Step5. Now enter the internet portal user name and Password.
+On successful logined, the SSL VPN User Portal screen will display.
+Step6. Click ON VPN TAB Download the VPN Configuration files.Step7. Double Click on the configuration file it will open in Tunnelblick.Step8. Click on Connect.
+Step8. You will see Connected at the top of the screen.
+How to access Microsoft Remote Desktop on your Mac
+In order to get started with Microsoft Remote Desktop, you must begin by
+downloading it from the Mac App Store. Click the blue "App Store" icon in your
+dock.
+Once you've accessed the Mac App Store, use the search bar at the top right of
+the screen to search for "Microsoft Remote Desktop." The first search result
+should be what you're looking for. To begin the download, click the blue "Get"
+button. This app is free, so no price will be listed.Next, open the application by clicking through the grey "Launchpad" icon and
+clicking on the Remote Desktop app icon. Or, you can use the searchlight feature
+by clicking the looking glass at the top right of your home screen, or by using the
+shortcut Command + Space Bar, and searching for "Microsoft Remote Desktop."
+Opening the app should look like this:
+Head back to your Mac and click the "New" button at the top left of the Microsoft
+Remote Desktop screen. You'll be prompted to fill in quite a few fields.
+Connection Name: Netsmartz Office PC
+PC : <IP Address Netsmartz Office Machine>
+User Name: netsmartz\<Firstname>.<lastname>
+Pass: <Netsmartz Windows Login Password>For Further Help Use the below mentioned link.
+https://www.youtube.com/watch?v=x7TCvLuWlF0
+Netsmartz GIT SETUP HELP DOCUMENT
+Mandatory software to be installed from the given URLs:
+•GIT - https://git-scm.com/download/win
+
+•Tortoise Git - https://download.tortoisegit.org/tgit/2.12.0.0/TortoiseGit-2.12.0.0-64bit.msi
+To Access Netsmartz GIT Repo over the web: Open the URL https://git.netsmartz.net by chrome or edge browser:
+Click on the Active directory tab -→enter your AD login credentials-→ Click Sign In
+Netsmartz GIT SETUP HELP DOCUMENT
+
+Code Check Out Procedure.
+•Click on the assigned project to take the checkout: -
+•Click on the clone tab and copy the URL shown under the “clone with HTTPS”
+•Go to your system drive directory →Perform Right click & click the Git clone
+option:-
+Netsmartz GIT SETUP HELP DOCUMENT
+•Paste copied URL of git repo and then click on OK :-
+•Enter your AD Username and password :-
+
+Netsmartz GIT SETUP HELP DOCUMENT
+
+Code Commit Procedure :
+•From your’s system Perform Right click on the git repo and click on “git commit”
+option
+Netsmartz GIT SETUP HELP DOCUMENT
+•Type message about your code in the “Message block”→ Then check on option
+All to select your changes in code → click on commit & push tab to commit the
+code.
+
+Laptop Policy Agreement
+This agreement is made and signed on …….…………. Day of ……….….……….at Chandigarh
+containing additional terms agreed
+BY AND BETWEEN
+Netsmartz InfoTech (India) Pvt. Ltd., a company having its registered office at Plot no. 10, Rajiv
+Gandhi Chandigarh Technology Park, Kishangarh, Chandigarh
+AND
+Mr./Ms./Mrs.……………………………………………..., Son/Daughter of ………………………………………….…….
+resident of (Permanent address) …………..……………………..……………………………………….................... is
+treated as an individual.
+Whereas Netsmartz InfoTech (India) Pvt. Ltd. Term used as “Netsmartz” is providing laptop to
+an individual for official purpose.
+Now, in consideration of the use of the assets, the employee covenants as here under;
+
+Use the asset only for the business of Netsmartz and shall not use it for any unlawful or
+prohibited purpose.
+Not to install/use any unauthorized software/data in the course of use of the asset. Any
+unauthorized software installed on the laptop will be my responsibility if any audit held
+by the IT department of Netsmartz or third party.
+You are personally accountable for all network and systems access under your user ID,
+so keep your password absolutely secret. Never share it with anyone, not even
+members of your family, friends or IT staff.
+I undertake to take proper and reasonable care of the asset at all the times, shall not
+misuse the same and take all necessary and adequate safeguard to protect the asset of
+Netsmartz.
+You agree that the asset shall be the property of Netsmartz at all times and that I will
+not have any right, Netsmartz or interest in the said asset except using such asset during
+my employment with Netsmartz or for such duration as may be decided by Netsmartz.
+Provided that Netsmartz will have the right to take back the asset at any time it deems
+fit without assigning any reason for the same.
+I agree not to mortgage/lien or otherwise create any charges/encumbrances on the said
+asset of Netsmartz, whether present or future, and will not, under any circumstances, as
+off the asset as my own. I further agree to return the asset on termination of my
+services or on leaving the services of Netsmartz, for any reason whatsoever.
+I agree that in the event of any loss/damage to the asset, I will immediately lodge an FIR
+and submit the original copy to the HR.
+I agree, in case of a loss of the laptop, the employee/user is to immediately report the
+loss, with all the relevant Information relating to the loss, to the relevant HR and IT
+Team.
+I agree to submit myself to random audit by Netsmartz, in order to check the physical
+presence as well as the functional usability of the asset.
+I undertake to maintain the secrecy and the confidentiality, at all times, with respect to
+all the data and information relating to Netsmartz and or used in relation to my
+employment with Netsmartz, contained in the asset, whether past, present or future, in
+whatever form.
+I agree to defend and indemnify Netsmartz against, and hold Netsmartz harmless from,
+any and all claims, damages and losses, and expenses of any kind arising from or
+connected with the use of asset.
+The term of this agreement will be enforced till my last day of working in the
+organization.
+In case of any difference/dispute arising out of or in connection with the use of the asset
+or the terms and conditions of this agreement, the same will be referred to the Director
+for decision on the matter.
+In case of my leaving the employment or being terminated for any reason, I will
+handover the asset to Netsmartz in good condition failing which Netsmartz is authorized
+to file legal action or penalty against me.
+I will not install any additional software or change the configuration of the equipment in
+any way without prior consultation with Tech Support.
+I will not allow any other individuals to use my laptop computer and/or related
+equipment and accessories that have been provided to me by the District.
+I understand that a violation of the terms and conditions set out in the policy will result
+in the restriction and/or termination of my use of the District’s laptop computers,
+equipment, and/or accessories and may result in further discipline up to and including
+termination of employment and/or other legal action
+
+Agreement accepted on……………………………….
+Agreement accepted by……………………………….
+Employee (Signature)
+Management (Signature)
+Details of the asset are attached as Annexure (Delivery Note).
+DELIVERY NOTE
+Description
+Model No
+
+…………………………………………………….
+
+Serial No
+
+…………………………………………………….
+
+Inventory Code
+
+………………………………………………….....
+
+Configuration
+
+……………………………………………………..
+
+Check list:Power cord
+
+Yes/ No
+
+Power Adaptor
+
+Yes/ No
+
+Modem Cord
+
+Yes/ No
+
+Laptop Carry Bag
+
+Yes/ No
+
+Laptop Physical Status
+
+New/Old
+
+Network Connectivity
+
+Yes/ No
+
+E-mail, Outlook, Internet configuration
+
+Yes/ No
+
+I have received all the above stated items and I am satisfied with their working condition.
+Date: ………………………
+
+Signature: ………………………………….
+Name: ………………………………………..
+
+MS TEAMS HELP
+Step 1 :Web URL - https://www.office.com
+Kindly log in with Caresmartz 360 email ID.
+Step 2:Click on Microsoft Teams
+Click on Get the Windows APPStep 3:Login Microsoft teams with your Caresmartz 360 account.
+
+Netsmartz GGN SSL VPN Setup Procedure
+Uninstall the existing SOPHOS VPN from the personal System control panel.
+URL: https://netggnfw.netsmartz.net:10443
+Enter the SSL VPN Credentials
+Referring to below image Click ON VPN TAB to Download the Windows & VPN
+Configuration files.
+Run the download for Windows EXE File and follow the Instructions.
+After Finishing the installation Search for SOPHOS Connect at your system.
+Click On IT & import the configuration file.
+TO connect with your remote machine -->Open Remote desktop at your System.
+Enter system IP address & then Enter the system's account credentials.
+For Remote Enter your office system User ID and Password.
+
+Netsmartz Mohali SSL VPN (Virtual Private Network) Setup Procedure
+Uninstall the existing SOPHOS VPN from the personal System control panel
+URL: https://112.196.75.202
+Enter the SSL VPN Credentials
+Referring to below image Click ON VPN TAB to Download the Windows & VPN
+Configuration files.Run the download for Windows EXE File and follow the Instructions.
+After Finishing the installation Search for SOPHOS Connect at your system.
+Click On IT & import the configuration file.TO Connect with the VPN OPEN SOPHOS OPEN & click on connect & enter your
+VPN credentialsTO connect with your remote machine -->Open Remote desktop at your System.
+Enter system IP address & then Enter the system's account credentials.
+
+THUNDERBIRD MAILS CONFIGURATION STEPS: 
+1. Select set as default option.
+2. Click the tab skip this and use my existing email.3. Type the details: 
+a. Name- User name
+b. Email address
+c. Password
+And select the tab Configure Manually.
+4. Select POP3 in incoming server and follow the other option step by
+step and click done.Protocol – POP3
+Incoming port – 995, Outgoing port – 587
+SSL – Incoming (SSL/TLS), Outgoing (STARTTLS)
+Work_From_Home_Request_FORM
+Name and Employee Code
+Job Title
+Department / Sub
+Department
+Reporting Manager
+Business Unit Vertical
+Head
+Shift Timings: …………………………….
+
+Project name: …………………………….
+
+NetSmartz Local System IP that to be accessed: ……………………………….
+Information regarding System used at home (For people requiring VPN and RDP to
+office Desktop):
+Hardware configuration (minimum 4 GB RAM with i3 Processor):
+………………………………………………………….
+Operating System (minimum windows 10 or MAC OS 10.12 or higher):
+………………………………………………….
+Internet connectivity at Home (Broadband connection /Data dongle or mobile hot
+Spot) ………………………
+Home Internet speed in Mbps (minimum for international gateway like up to USA
+8Mbps) ……………
+To be filled by Manager:
+Project Business Impact value: Low / Medium / High: ……………………………….
+Project data confidentiality value: Low / Medium / High: …………………………
+Project Data Integrity value: Low / Medium / High: ……………………………………
+NetSmartz SVN Repo Name that to be accessed over the SSL (For People having
+Company Laptop):
+………………………………………………………………………………………………………………
+………………………………………………….
+Notes:
+Netsmartz provided VPN and RDP is only to connect with Netsmartz local
+network and you cannot further connect with additional VPN connections
+while connected with Netsmartz VPN and RDP account. Use client provide
+VPN to directly take control of the client network as per your project
+scope of work declaration with end client.
+VPN connectivity with JIO mobile or dongle does not always work, and the
+connection may not be stable over the network
+Declaration:
+ã2018 Netsmartz Infotech (India) Pvt Ltd. All Rights Reserved
+
+All Rights Reserved: Netsmartz House, Plot No. 10, Rajiv Gandhi I.T. Park,
+Chandigarh
+
+1
+Work_From_Home_Request_FORM
+I ___________________________ hereby declare and agree that the Use of the VPN
+account is only for the business of Netsmartz and shall not be used for any unlawful
+or prohibited purpose and will not be shared with anyone.
+_______________________
+
+______________________
+
+Employee Name & Signature
+Name & Signature
+Date:
+
+___________________
+
+Manager Name & Signature
+Date:
+
+HOD
+
+Date:
+
+ã2018 Netsmartz Infotech (India) Pvt Ltd. All Rights Reserved
+
+All Rights Reserved: Netsmartz House, Plot No. 10, Rajiv Gandhi I.T. Park,
+Chandigarh
+
+2Acceptable Use Policy
+Acceptable Use Policy
+All Rights Reserved: Netsmartz House, Plot No. 10, Rajiv Gandhi I.T. Park, ChandigarhAcceptable Use Policy
+Document Vérification & Version Control
+Issuing Authority:
+Information Technology Division
+Version No.:
+1.1
+Release Date:
+13-Sept- 2018
+Authored by
+Approved by
+Name:
+Samrat Sheel Sharma
+Signature:
+S.S.Sharma
+Date:
+13-Sept-2018
+Name:
+Vikas Katoch
+Signature:
+Date:
+Uncontrolled copy if printed/ photocopied (unless specified otherwise)
+
+NOTICE:
+Information contained in this document is classified Netsmartz Confidential Proprietary. No person
+outside the Netsmartz, LLC shall have access to the information contained in this document unless
+business needs dictate, otherwise. It is the responsibility of the person knowing the information
+contained in this document to ensure confidentiality of information contained in it and preventing
+unauthorized access to this document at all times.
+
+NTZ_ITD_AUP_1.1_005Acceptable Use Policy
+Amendment Record
+Document
+Version/Revision
+Author(s)
+Date
+Amendment Details
+0.0
+Samrat Sheel Sharma
+13-Sept-2018
+Published
+0.1
+Samrat Sheel Sharma
+15-07-2022
+
+New Helpdesk System
+Table of Contents
+
+Contents
+Acceptable Use Policy .......................................................................................................................1
+Overview ..........................................................................................................................................4
+Purpose ............................................................................................................................................4
+Scope ...............................................................................................................................................4
+Introduction .....................................................................................................................................5
+Email Guidelines ...............................................................................................................................5
+System Guidelines ............................................................................................................................6
+Network and Internet Guidelines ......................................................................................................7
+Security Guidelines ...........................................................................................................................8
+Telephone Guidelines .......................................................................................................................8
+Computer Hardware usage ...............................................................................................................9
+Important URL’s recommended to add in Favorites ......................................................................... 13
+
+NTZ_ITD_AUP_1.1_005
+Acceptable Use Policy
+Overview
+Netsmartz intentions for publishing an Acceptable Use Policy are not to impose restrictions that are
+contrary to NETSMARTZ’s established culture of openness, trust, and integrity. Netsmartz is committed
+to protecting NETSMARTZ's employees, partners, and the company from illegal or damaging actions by
+individuals, either knowingly or unknowingly.
+Internet/Intranet/Extranet-related systems, including but not limited to computer equipment,
+software, operating systems, storage media, network accounts providing electronic mail, WWW
+browsing, and FTP, are the property of NETSMARTZ. These systems are to be used for business
+purposes in serving the interests of the company, and of our clients and customers during normal
+operations. Please review Human Resources policies for further details.
+Effective security is a team effort involving the participation and support of every NETSMARTZ
+employee and affiliate who deals with information and/or information systems. It is the responsibility
+of every computer user to know these guidelines, and to conduct their activities accordingly.
+Purpose
+The purpose of this policy is to outline the acceptable use of computer equipment at NETSMARTZ.
+These rules are in place to protect the employee and NETSMARTZ. Inappropriate use exposes
+NETSMARTZ to risks including virus attacks, compromise of network systems and services, and legal
+issues.
+Scope
+This policy applies to the use of information, electronic and computing devices, and network resources
+to conduct NETSMARTZ business or interact with internal networks and business systems, whether
+owned or leased by NETSMARTZ, the employee, or a third party. All employees, contractors,
+consultants, temporary, and other workers at NETSMARTZ and its subsidiaries are responsible for
+exercising good judgment regarding appropriate use of information, electronic devices, and network
+resources in accordance with NETSMARTZ policies and standards, and local laws and regulation.
+This policy applies to employees, contractors, consultants, temporaries, and other workers at
+NETSMARTZ, including all personnel affiliated with third parties. This policy applies to all equipment
+that is owned or leased by NETSMARTZ.
+
+NTZ_ITD_AUP_1.1_005
+Acceptable Use Policy
+Introduction
+This document is divided into guidelines mentioned below and should be actively read along with
+Netsmartz Acceptable Use Policy.
+•Email Guidelines
+•System Guidelines
+•Network and Internet Guidelines
+•Security Guidelines
+•Telephone Guidelines
+
+An e-mail is sent to all new employees when they join.
+Dear New Employee,
+Congratulations on your employment at Netsmartz Infotech India Pvt. Ltd. We look forward to helping
+you in setting up the required resources and maintenance.
+IT Team is responsible for securing the network and maintenance of systems and servers. This
+document guides you into the details of Information Technology (IT) related resources.
+Wish you all the best and good luck for your career in Netsmartz!
+Email Guidelines
+Netsmartz email guidelines are designed to take care of the needs of our employees as well as our
+customers. The norms, to which each of you should comply, are mentioned below:
+NTZ_ITD_AUP_1.1_005
+
+Acceptable Use Policy
+
+You can send emails of up to 6 MB only, including the message body and attachments.
+You can receive emails of up to 6 MB only, including the message body content and attachments.
+By default, Thunderbird will be configured as email Client with Open Office. The protocols supported to
+download mails are POP, RPC over HTTP and HTTPS.
+You can access the mail service from outside the Netsmartz network by using the URL
+https://outlook.office365.com for .com IDs and http://mailzimb.netsmartz.net for .Net Email Ids. The
+mailing system is monitored, and the log will be screened for all employees, to make sure that the
+resource is used efficiently.
+Any notification to be sent to all employees of Netsmartz must be directed through HR, IT and Admin
+department.
+You
+can
+reach
+IT
+Support
+by
+https://netsmartz.darwinbox.in/user/login
+logging
+your
+request
+through
+email
+at
+
+To Process Registered Service request kindly mention necessary details like Cubical location ,contact
+number along with brief problem description.
+Do not add disclaimers to your signature, as it is taken care at the server end.
+System Guidelines
+IT admin will share your login ID and the default password while assigning the system & make sure to
+change your password. Memorize your credentials and do not share it with others.
+Mandatory to use project approved software application on the official systems and do not install crack
+or trail versions at your own.
+By default, you have all the permissions to install new applications, Security Patches, and Critical
+Updates on your local system. The updates are pushed from the central server. Users are advised to
+install the updates without fail and update IT Support in case of any errors noticed during the
+installation. The password should be of at least 8 to 10 characters which should be a combination of
+capital and small letter, minimum one numeric and special character is necessary. The password will
+expire after 60 days, and user receives an automated mail from the admin 15 days prior to the expiry
+date.
+NTZ_ITD_AUP_1.1_005
+
+Acceptable Use Policy
+
+•Always check the Antivirus Software, which is updated automatically, failing which, you must bring it
+to the notice of IT Support at INFOSEC@netsmartz.com
+•Any requirement for software or hardware must be requested through Helpdesk portal
+https://netsmartz.darwinbox.in/user/login
+duly Approved from reporting Manager.
+
+•Installation of any third-party application requires approval from your Project Manager. Any
+application, which is not concerned to the project, will be removed from the system without any prior
+notice to the user.
+•You should not move the system to any other cubical other than the one allotted to you. In case you
+are required to move, then raise a request to the admin group at and specifying the reason for
+movement.
+•Any upgrades or request for additional system must be brought to the notice of IT Support, a
+minimum of 4 days in advance with prior approval from your Reporting Manager.
+Network and Internet Guidelines
+•You strictly must not change the IP address settings of your system.
+Project related data are stored at centralized location on servers. You must access the same
+using client applications like TFS, Database or Share Point Access. Permission to access these
+data on the server will be given only on approval from your Reporting Manager.
+•Access to any of the network printers will be denied, by default and will be given by IT Team.
+Printing of personal documents like resumes, books, etc. are strictly prohibited, and usage of
+each user will be monitored.
+•If a client wants to access your workstation remotely to view a project demo or for any other
+reason, then you must send a request specifying the complete details by filling the checklist
+(Checklist for Firewall External Mapping). IT will suggest a suitable mode of sharing the system
+and handle the request. You will be provided with necessary details to access the system
+remotely, which in turn can be shared with the client.
+
+NTZ_ITD_AUP_1.1_005
+
+Acceptable Use Policy
+
+•Access to browse technical and informative sites on the Internet has been allowed for all.
+Entertainment and media URLs will not be entertained. Any URL of technical sites, which proves
+necessary for project purpose and is not accessible, can be sent to IT by getting approval from
+their reporting manager. The same will be allowed on Firewall. By default, the uses of
+messengers have been denied. Users, who want to communicate with clients can avail this
+facility on approval from their Reporting Manager. The sites are blocked based on the
+reputation and the category they belong to. Any above said such services are allowed for three
+months only and must be renewed after that.
+
+•For any download of software or other data from the Internet, request must be made at
+helpdesk portal https://netsmartz.darwinbox.in/user/login Request will be processed by IT
+and the link to obtain the downloaded data will be sent to the user.
+
+Security Guidelines
+•All users are bound to group policies, wherein, access to all the shared folders on Netsmartz
+Intranet depends on the level of access permissions they have. Any request to access the
+shared folders must be directed to IT with approval from the Reporting Manager. Auditing is
+enabled on all the shared folders to avoid mishandling of crucial data.
+
+•To transfer bulk data over the Internet, we have a FTP server, each project can have its account
+created on the FTP server whenever there is a need to share data outside the network.
+Credentials to access the FTP server will be given only to concerned users of the project. It is
+the responsibility of every user to maintain the information with utmost secrecy. By default,
+the password will expire every 60 days - you must set reminders and update IT to reset it well in
+advance to avoid any circumstances.
+
+•IT Team provides VPN service for users, who work from home or on-site, based on their
+Reporting Manager’s approval.
+
+Telephone Guidelines
+
+The PSTN lines have been facilitated in cubicles and can make calls.
+Usage of each workstation will be monitored through System and all employees are bound to
+follow Netsmartz Security Policy.
+
+NTZ_ITD_AUP_1.1_005Acceptable Use Policy
+Computer Hardware Usage Policy
+Mandatory to all PC's (including the monitors) should be powered off when not in use. The
+benefits of doing this include:
+Security - if a machine is switched off it cannot be infected with viruses or be hacked.
+Power saving - a switched off machine will use very little power - saving energy, money,
+and the environment. By taking the additional step of switching off the power at the
+socket, you can reduce power usage to zero.
+Updates – Microsoft provide regular updates and the majority are applied when you start
+your machine up. Regularly shutting down your machine means you will be ensuring that it
+is fully up to date.
+
+NTZ_ITD_AUP_1.1_005
+Acceptable Use Policy
+
+•NETSMARTZ proprietary information stored on electronic and computing devices whether
+owned or leased by NETSMARTZ, the employee or a third party, remains the sole property
+of NETSMARTZ. You must ensure through legal or technical means that proprietary
+information is protected in accordance with the Data Protection Standard.
+•You have a responsibility to promptly report the theft, loss, or unauthorized disclosure of
+NETSMARTZ proprietary information.
+•You may access, use, or share NETSMARTZ proprietary information only to the extent it is
+authorized and necessary to fulfill your assigned job duties.
+
+•Employees are responsible for exercising good judgment regarding the reasonableness of
+personal use. Individual departments are responsible for creating guidelines concerning
+personal use of Internet/Intranet/Extranet systems. In the absence of such policies,
+employees should be guided by departmental policies on personal use, and if there is any
+uncertainty, employees should consult their supervisor or manager.
+•For security and network maintenance purposes, authorized individuals within NETSMARTZ
+may monitor equipment, systems, and network traffic at any time.
+•NETSMARTZ reserves the right to audit networks and systems on a periodic basis to ensure
+compliance with this policy.
+The following activities are, in general, prohibited. Employees may be exempted from these restrictions
+during their legitimate job responsibilities (e.g., systems administration staff may have a need to
+disable the network access of a host if that host is disrupting production services).
+Under no circumstances is an employee of NETSMARTZ authorized to engage in any activity that is
+illegal under local, state, federal or international law while utilizing NETSMARTZ-owned resources.
+The lists below are by no means exhaustive but attempt to provide a framework for activities which fall
+into the category of unacceptable use.
+
+The following activities are strictly prohibited, with no exceptions:
+NTZ_ITD_AUP_1.1_005Acceptable Use Policy
+
+oViolations of the rights of any person or company protected by copyright, trade secret,
+patent or other intellectual property, or similar laws or regulations, including, but not
+limited to, the installation or distribution of "pirated" or other software products that
+are not appropriately licensed for use by NETSMARTZ.
+
+->Unauthorized copying of copyrighted material including, but not limited to, digitization
+and distribution of photographs from magazines, books or other copyrighted sources,
+copyrighted music, and the installation of any copyrighted software for which
+NETSMARTZ or the end user does not have an active license is strictly prohibited.
+->Accessing data, a server, or an account for any purpose other than conducting
+NETSMARTZ business, even if you have authorized access, is prohibited.
+->Exporting software, technical information, encryption software or technology, in
+violation of international or regional export control laws, is illegal. The appropriate
+management should be consulted prior to export of any material that is in question.
+->Introduction of malicious programs into the network or server (e.g., viruses, worms,
+Trojan horses, e-mail bombs, etc.).
+->Revealing your account password to others or allowing use of your account by others.
+This includes family and other household members when work is being done at home.
+->Using a NETSMARTZ computing asset to actively engage in procuring or transmitting
+material that is in violation of sexual harassment or hostile workplace laws in the user's
+local Jurisdiction.
+->Making fraudulent offers of products, items, or services originating from any
+NETSMARTZ account.
+->Effecting security breaches or disruptions of network communication. Security
+breaches include, but are not limited to, accessing data of which the employee is not an
+intended recipient or logging into a server or account that the employee is not
+expressly authorized to access, unless these duties are within the scope of regular
+duties. For purposes of this section, "disruption" includes, but is not limited to, network
+sniffing, pinged floods, packet spoofing, denial of service, and forged routing
+information for malicious purposes.
+->Port scanning or security scanning is expressly prohibited unless prior notification to
+Infosec is made.
+
+NTZ_ITD_AUP_1.1_005
+Acceptable Use Policy
+->Executing any form of network monitoring which will intercept data not intended for
+the employee's host, unless this activity is a part of the employee's normal job/duty.
+->Circumventing user authentication or security of any host, network, or account.
+->Introducing honeypots, honeynets, or similar technology on the NETSMARTZ network.
+->Interfering with or denying service to any user other than the employee's host (for
+example, denial of service attack).
+->Using any program/script/command, or sending messages of any kind, with the intent
+to interfere with, or disable, a user's terminal session, via any means, locally or via the
+Internet/Intranet/Extranet.
+
+Providing information about, or lists of, NETSMARTZ employees to parties outside
+NETSMARTZ.
+When using company resources to access and use the Internet, users must realize they
+represent the company. Whenever employees state an affiliation to the company, they
+must also clearly indicate that "the opinions expressed are my own and not necessarily
+those of the company". Questions may be addressed to the IT Department
+Sending unsolicited email messages, including the sending of "junk mail" or other
+advertising material to individuals who did not specifically request such material (email
+spam).
+Any form of harassment via email, telephone, or paging, whether through language,
+frequency, or size of messages.
+Unauthorized use, or forging, of email header information.
+Solicitation of email for any other email address, other than that of the poster's
+account, with the intent to harass or to collect replies.
+Creating or forwarding "chain letters", "Ponzi" or other "pyramid" schemes of any type.
+Use of unsolicited email originating from within NETSMARTZ's networks of other
+Internet/Intranet/Extranet service providers on behalf of, or to advertise, any service
+hosted by NETSMARTZ or connected via NETSMARTZ's network.
+Posting the same or similar non-business-related messages to large numbers of Usenet
+newsgroups (newsgroup spam).
+
+NTZ_ITD_AUP_1.1_005
+Acceptable Use Policy
+
+Important URL’s recommended to add in Favorites
+\\192.168.10.26\How_To_Do : Information Resources Guidelines
+
+NTZ_ITD_AUP_1.1_005
+Office 365 Email Outlook configuration steps: 1. Click on file and go to add account –
+1.Click on add account :-2. Enter your email id and password: -
+Then your email ID has been configured.
+If face any issue kindly submit Service request at https://netsmartz.darwinbox.in/user/login
+Procedure to install MS -Office by using office 365 account.
+URL : www.office.com
+Add given credentials follow the below steps.
+
+Procedure to install MS -Team Account using office 365 credentials.
+URL : www.office.com
+Add given credentials follow the below steps.
+Polycom IP 5000 Soundstation User Manual
+IP Phone Lines Configuration:
+Single Line:
+Line 1: International Calling.
+
+How to Use?
+Local Intra office calling: Dial the respective Line 2 number and press the highlighted button.
+International Dial: Dial the respective number along with the country code and press the highlighted
+button.
+
+For further information contact:
+IT Helpdesk: Ext (Line 1) : 5016 , 5022
+Email: IT.Support@Netsmartz.net
+
+Polycom IP Phone User Manual
+IP Phone Lines Configuration:
+Line 1: Local Calling
+Line 2: International Calling.
+
+How to Use?
+Local Dial: Dial the respective number and press the button highlighted in blue.
+International Dial: Dial the respective number along with the country code and press the button
+highlighted in Green.
+
+Note: For more information kindly raise the link mentioned below.
+\\192.168.10.26\How_To_Do\INFORMATION_RESOURCES_GUIDELINES\Polycom
+
+For further information contact:
+IT Helpdesk: Ext (Line 1) : 4016 , 4105
+Email: IT.Support@Netsmartz.net
+
+Polycom IP Phone User Manual
+
+IP Phone Lines Configuration:
+Line 1: Local Calling
+Line 2: International Calling.
+
+How to Use?
+Local Dial: Dial the respective number and press the button highlighted in blue.
+International Dial: Dial the respective number along with the country code and press the button
+highlighted in Green.
+Note: For more information kindly raise the link mentioned below.
+\\192.168.10.26\How_To_Do\INFORMATION_RESOURCES_GUIDELINES\Polycom
+
+For further information contact:
+
+IT Helpdesk: Ext (Line 1) : 4016 , 4105
+Email: IT.Support@Netsmartz.net
+
+FAQ’s on Employee Provident Fund
+1. Why my EPF contribution of last months is not reflecting under my EPF passbook?
+Answer: EPF passbook Updation is done by EPF dept and we cannot provide information
+on the timelines of PF dept for passbook Updation.
+As a company we are timely depositing PF in respective employees UAN account, still for
+any concerns you can visit the PF department in Sector-17, Chandigarh.
+
+2.How can I withdraw money from my EPF account?
+Answer: Employee needs to make request for online withdrawal using there UAN login
+and upon request we will approve the same . After making online request kindly inform
+the same using Darwin ticket helpdesk.
+
+3.How can I transfer my previous company EPF account in Netsmartz EPF account ?
+Answer: Employee needs to make request for online transfer using there UAN login and
+upon request we will approve the same . After making online request kindly inform the
+same using Darwin ticket helpdesk.
+
+4.If an employee wants to opt for EPF deduction for first time, how PF will be
+deducted from salary ?
+Answer: For first time opting EPF you will have to raise a ticket to your HRBP and they
+will share Form no.11 and that will be shared with Payroll team for your EPF registration.
+For deduction part: EPF deduction is based on basic salary and maximum deducted upto
+Rs 15000 basic salary , both employer and employee PF deduction is done from employee
+CTC and once opted EPF deduction cannot be stopped. Few examples of EPF deduction
+are as below
+Basic Salary
+Basic Salary for EPF deduction
+PF deduction in amount (
+Employer +Employee)
+10500
+10500
+2520 ( 1260+1260)
+26000
+15000
+3600 (1800+1800)
+5. What if I want to go for higher EPF deduction?
+Answer : For higher EPF deduction, the EPF will be deducted based on your currentbasic
+salary ( i.e. 24% of your basic salary – 12% Employee Contribution+ 12% Employer
+contribution) for which ticket needs to be raised on Darwin Helpdesk to us.
+For example : Currently your basic salary is Rs 30000 per month but we are deducting
+EPF deduction on minimum slab i.e. Rs 3600 ( Rs 1800 employee + Rs 1800 employer) .
+So, upon request we will update the EPF deduction to Rs 7200 ( Rs 3600 employee + Rs
+3600 employer) which is 24% of your basic salary.
+
+6. How employer EPF part is shown under EPF passbook?
+Answer: Employer EPF part is divided into two parts. Normal Contribution and Pension
+Contribution. The amount you can withdraw in cash form is employee PF contribution and
+employer part contribution. For amount under pension contribution you will get the pension
+only.
+For example: Employer part of Rs 1800 is divided into two parts i.e. Rs 1250 shows under
+normal contribution and Rs 550 shows under pension contribution.
+
+FAQ’s on Employee Provident Fund
+
+1. Why my EPF contribution of last months is not reflecting under my EPF passbook?
+
+     Answer: EPF passbook Updation is done by EPF dept and we cannot provide information
+     on the timelines of PF dept for passbook Updation.
+     As a company we are timely depositing PF in respective employees UAN account, still for
+     any concerns you can visit the PF department in Sector-17, Chandigarh.
+
+2.   How can I withdraw money from my EPF account?
+
+     Answer: Employee needs to make request for online withdrawal using there UAN login
+     and upon request we will approve the same . After making online request kindly inform
+     the same using Darwin ticket helpdesk.
+
+3.    How can I transfer my previous company EPF account in Netsmartz EPF account ?
+
+     Answer: Employee needs to make request for online transfer using there UAN login and
+     upon request we will approve the same . After making online request kindly inform the
+     same using Darwin ticket helpdesk.
+
+4.    If an employee wants to opt for EPF deduction for first time, how PF will be
+     deducted from salary ?
+
+     Answer: For first time opting EPF you will have to raise a ticket to your HRBP and they
+     will share Form no.11 and that will be shared with Payroll team for your EPF registration.
+     For deduction part: EPF deduction is based on basic salary and maximum deducted upto
+     Rs 15000 basic salary , both employer and employee PF deduction is done from employee
+     CTC and once opted EPF deduction cannot be stopped. Few examples of EPF deduction
+     are as below
+
+      Basic Salary        Basic Salary for EPF deduction         PF deduction in amount (
+                                                                 Employer +Employee)
+
+      10500               10500                                  2520 ( 1260+1260)
+
+      26000               15000                                      3600 (1800+1800)
+5. What if I want to go for higher EPF deduction?
+
+   Answer : For higher EPF deduction, the EPF will be deducted based on your currentbasic
+   salary ( i.e. 24% of your basic salary – 12% Employee Contribution+ 12% Employer
+   contribution) for which ticket needs to be raised on Darwin Helpdesk to us.
+
+   For example : Currently your basic salary is Rs 30000 per month but we are deducting
+   EPF deduction on minimum slab i.e. Rs 3600 ( Rs 1800 employee + Rs 1800 employer) .
+   So, upon request we will update the EPF deduction to Rs 7200 ( Rs 3600 employee + Rs
+   3600 employer) which is 24% of your basic salary.
+
+6. How employer EPF part is shown under EPF passbook?
+
+   Answer: Employer EPF part is divided into two parts. Normal Contribution and Pension
+   Contribution. The amount you can withdraw in cash form is employee PF contribution and
+   employer part contribution. For amount under pension contribution you will get the pension
+   only.
+
+   For example: Employer part of Rs 1800 is divided into two parts i.e. Rs 1250 shows under
+   normal contribution and Rs 550 shows under pension contribution.
+THUNDERBIRD MAILS CONFIGURATION STEPS: -
+
+1. Please select set as default option.
+2. Please click the tab skip this and use my existing email.3. Type the details: 
+a. Name- User name
+b. Email address- User email
+c. Password- User password
+And select the tab Manual config.
+4. Select POP3 in incoming server and follow the other option step by
+step and click done.
+Protocol – POP3
+Incoming port – 995 , Outgoing port – 587
+SSL – Incoming (SSL/TLS) , Outgoing (STARTTLS)
+Then your mail has been configured.
+THUNDERBIRD MAILS CONFIGURATION STEPS: -
+1. Please select set as default option.
+2. Please click the tab skip this and use my existing email.3. Type the details: -
+1. Name- User name
+2. Email address- User email
+3. Password- User password
+And select the tab Manual config.4. Select POP3 in incoming server and follow the other option step by
+step and click done.
+
+Protocol – POP3
+Incoming port – 995 , Outgoing port – 587
+SSL – Incoming (SSL/TLS) , Outgoing (STARTTLS)
+Then your mail has been configured.Procedure
+Step1. Open IE or any browser and enter this URL h ttps://sebizfw.sebiz.in
+Reference snapshots
+Enter your SSL credentials and click loginHow to configure the SSL VPN on Ubuntu
+Follow these steps to configure SSL VPN Client in Ubuntu:
+1. Login to Sophos Firewall's User Portal by browsing to https://sebizfw.sebiz.in
+2. Navigate to SSL VPN
+3. Click Download Configuration for Other OSs
+A compressed file named .ovpn is downloaded.4. Navigate to where the ovpn file was downloaded and execute the following
+command:openvpn --config client.ovpn
+5. Fill in the SSL VPN username and password
+6. The client will be connected after that.
+7. Connect to RDP (https://www.digitalcitizen.life/connecting-windows-remotedesktop-ubuntu/)
+8. Enter the IT Team given IP address only. below is just a Reference image.
+
+Enter your Active directory credentials only. (Netsmartz system login)
+netsmartz\firstname.lastname
+Password: ************
+CLIENT SETUP INSTRUCTIONS MAC OS
+
+You can configure SSL VPN for Mac OS X using Tunnelblick VPN client by following the steps below.
+Download and install Tunnelblick Client
+1. Download the latest version Tunnelblick for MAC from
+https://tunnelblick.net/downloads.html.
+2. Put the file in the Applications folder and Install the file Tunnelblick.*.*.dmg file.Download and connect with the OVPN file
+Step1. Open IE or any browser and enter this URL https://sebizfw.sebiz.in
+Step2. Click on ..... I Understand the risks
+Step3. Click on Add Exception.Step4. Click on Confirm Security Exception.
+Step5. Now enter the internet portal user name and Password.
+On successful logined, the SSL VPN User Portal screen will display.Step6.Click ON VPN TAB
+Download the VPN Configuration files
+Step7. Double Click on the configuration file it will open in Tunnelblick.Step8. Click on Connect.
+Step9. You will see Connected at the top of the screen.
+Step10. Test SVN connection using browser.
+CLIENT SETUP INSTRUCTIONS MAC OS
+
+You can configure SSL VPN for Mac OS X using Tunnelblick VPN client by following the steps below.
+Download and install Tunnelblick Client
+1. Download the latest version Tunnelblick for MAC from
+https://tunnelblick.net/downloads.html.
+2. Put the file in the Applications folder and Install the file Tunnelblick.*.*.dmg file.
+Download and connect with the OVPN file
+Step1. Open IE or any browser and enter this URL https://sebizfw.sebiz.in
+Step2. Click on ..... I Understand the risks
+Step3. Click on Add Exception.Step4. Click on Confirm Security Exception.
+Step5. Now enter the internet portal user name and Password.
+On successful logined, the SSL VPN User Portal screen will display.Step6.Click ON VPN TAB
+Download the VPN Configuration files
+Step7. Double Click on the configuration file it will open in Tunnelblick.Step8. Click on Connect.
+Step9. You will see Connected at the top of the screen.
+How to access Microsoft Remote Desktop on your Mac
+In order to get started with Microsoft Remote Desktop, you must begin by downloading it from the
+Mac App Store. Click the blue "App Store" icon in your dock.
+Once you've accessed the Mac App Store, use the search bar at the top right of the screen to search
+for "Microsoft Remote Desktop." The first search result should be what you're looking for. To begin
+the download, click the blue "Get" button. This app is free, so no price will be listed.Next, open the application by clicking through the grey "Launchpad" icon and clicking on the Remote
+Desktop app icon. Or, you can use the searchlight feature by clicking the looking glass at the top right
+of your home screen, or by using the shortcut Command + Space Bar, and searching for "Microsoft
+Remote Desktop." Opening the app should look like this:
+Head back to your Mac and click the "New" button at the top left of the Microsoft Remote Desktop
+screen. You'll be prompted to fill in quite a few fields.
+Connection Name: Netsmartz Office PC
+PC : <IP Address Netsmartz Office Machine>
+User Name: netsmartz\<Firstname>.<lastname>
+Pass: <Netsmartz Windows Login Password>
+For Further Help Use the below mentioned link.
+https://www.youtube.com/watch?v=x7TCvLuWlF0
+
+SSL VPN CLIENT SETUP INSTRUCTIONS
+
+Follow the steps to download installer file for Windows 10 Professional System.
+Step1. Open IE or any browser and enter this URL https://sebizfw.sebiz.in
+Step2. Click on ..... I Understand the risks
+Step3. Click on Add Exception.Step4. Click on Confirm Security Exception.
+Step5. Enter the SSL VPN Credentials
+Click ON VPN TABDownload the Download for Windows & VPN Configuration files.Step6. Run the downloaded for Windows EXE File and follow the Instructions.Open Remote desktop at your System
+For Remote Enter your office system User ID and PasswordEnter your OFFICE SYSTEM credentials only. (Netsmartz system login)
+netsmartz\firstname.lastname
+Password: ************
+
+How to configure the SSL VPN on Ubuntu
+Follow these steps to configure SSL VPN Client in Ubuntu:
+1. Login to Sophos Firewall's User Portal by browsing to https://sebizfw.sebiz.in
+2. Navigate to SSL VPN
+3. Click Download Configuration for Other OSs
+A compressed file named .ovpn is downloaded.4. Navigate to where the ovpn file was downloaded and execute the following
+   command:openvpn --config client.ovpn
+5. Fill in the SSL VPN username and password
+6. The client will be connected after that.
+7. Connect to RDP (https://www.digitalcitizen.life/connecting-windows-remote-
+   desktop-ubuntu/)
+8. Enter the IT Team given IP address only. below is just a Reference image.
+
+Enter your Active directory credentials only. (Netsmartz system login)
+netsmartz\firstname.lastname
+ Password: ************
+
+CLIENT SETUP INSTRUCTIONS MAC OS
+
+You can configure SSL VPN for Mac OS X using Tunnelblick VPN client by following the steps below.
+Download and install Tunnelblick Client
+1. Download the latest version Tunnelblick for MAC from
+      https://tunnelblick.net/downloads.html.
+2. Put the file in the Applications folder and Install the file Tunnelblick.*.*.dmg file.
+Download and connect with the OVPN file
+Step1. Open IE or any browser and enter this URL https://sebizfw.sebiz.in
+2. Click on ..... I Understand the risks
+3. Click on Add Exception.4. Click on Confirm Security Exception.
+5. Now enter the internet portal user name and Password.
+On successful logined, the SSL   VPN User Portal screen will display.6.Click ON VPN TAB     Download the VPN Configuration files
+7. Double Click on the configuration file it will open in Tunnelblick.8. Click on Connect.
+9. You will see Connected at the top of the screen.
+How to access Microsoft Remote Desktop on your Mac
+In order to get started with Microsoft Remote Desktop, you must begin by downloading it from the
+Mac App Store. Click the blue "App Store" icon in your dock.
+Once you've accessed the Mac App Store, use the search bar at the top right of the screen to search
+for "Microsoft Remote Desktop." The first search result should be what you're looking for. To begin
+the download, click the blue "Get" button. This app is free, so no price will be listed.Next, open the application by clicking through the grey "Launchpad" icon and clicking on the Remote
+Desktop app icon. Or, you can use the searchlight feature by clicking the looking glass at the top right
+of your home screen, or by using the shortcut Command + Space Bar, and searching for "Microsoft
+Remote Desktop." Opening the app should look like this:
+
+Head back to your Mac and click the "New" button at the top left of the Microsoft Remote Desktop
+screen. You'll be prompted to fill in quite a few fields.
+Connection Name: Netsmartz Office PC
+PC : <IP Address Netsmartz Office Machine>
+User Name: netsmartz\<Firstname>.<lastname>
+Pass: <Netsmartz Windows Login Password>For Further Help Use the below mentioned link.
+https://www.youtube.com/watch?v=x7TCvLuWlF0
+CLIENT SETUP INSTRUCTIONS MAC OS
+You can configure SSL VPN for Mac OS X using Tunnelblick VPN client by following the steps below.
+Download and install Tunnelblick Client
+1. Download the latest version Tunnelblick for MAC from
+ https://tunnelblick.net/downloads.html.
+2. Put the file in the Applications folder and Install the file Tunnelblick.*.*.dmg file.Download and connect with the OVPN file
+Step1. Open IE or any browser and enter this URL https://sebizfw.sebiz.in
+Step2. Click on ..... I Understand the risks
+Step3. Click on Add Exception.
+Step4. Click on Confirm Security Exception.
+Step5. Now enter the internet portal user name and Password.
+On successful logined, the SSL   VPN User Portal screen will display.6.Click ON VPN TAB     Download the VPN Configuration files
+7. Double Click on the configuration file it will open in Tunnelblick.8. Click on Connect.
+9. You will see Connected at the top of the screen.
+10. Test SVN connection using browser.
+SSL VPN CLIENT SETUP INSTRUCTIONS
+
+Follow the steps to download installer file for Windows 10 Professional System.
+Step1. Open IE or any browser and enter this URL https://sebizfw.sebiz.in
+Step2. Click on ..... I Understand the risks
+Step3. Click on Add Exception.Step4. Click on Confirm Security Exception.
+Step5. Enter the SSL VPN Credentials
+Click ON VPN TABDownload the Download for Windows & VPN Configuration files.
+Step6. Run the downloaded for Windows EXE File and follow the Instructions.Open Remote desktop at your System
+For Remote Enter your office system User ID and PasswordEnter your OFFICE SYSTEM credentials only. (Netsmartz system login)
+netsmartz\firstname.lastname
+Password: ************
+
